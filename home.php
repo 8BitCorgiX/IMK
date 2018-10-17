@@ -27,7 +27,15 @@
   </div>
 </nav>
 </head>
-<body>
-
+<body style="background-color: #2a2b2d; color:white;">
+<div class="container-fluid">
+	Today's Schedule
+</div>
 </body>
+
+<footer class="page-footer font-small">
+  <div class="footer-copyright navbar-inverse text-center py-3">© 2018 Copyright:
+    <a href="home.php">IMK</a>
+  </div>
+</footer>
 </html>
